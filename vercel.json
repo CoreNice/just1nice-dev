@@ -14,11 +14,10 @@
     ],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
+        "APP_DEBUG": "true", 
         "CACHE_STORE": "array",
         "SESSION_DRIVER": "cookie",
         "LOG_CHANNEL": "stderr",
-        "VIEW_COMPILED_PATH": "/tmp/storage/framework/views",
         "APP_STORAGE": "/tmp/storage"
     }
 }
